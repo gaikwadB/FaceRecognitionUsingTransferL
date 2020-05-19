@@ -99,3 +99,6 @@ List of Python libraries need to be installed:
         cap.release()
         cv2.destroyAllWindows()      
         print("Collecting Samples Complete")
+
+
+## Loading the VGG16 Model
