@@ -4,7 +4,7 @@ This project is a face recognition application using transfer learning
 ## What is transfer learning?
 
 According to Wikipedia, Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, the knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
-dataset:![dataset](/screenshot/0.png)
+dataset:![dataset](/Screenshot/0.png)
 
 ## Why use Transfer Learning?
 
