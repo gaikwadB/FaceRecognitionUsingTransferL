@@ -45,7 +45,7 @@ List of Python libraries need to be installed:
 
     conda install tensorflow keras opencv-python pillow numpy
     
-## Creating a dataset
+## Creating a dataset (Collecting image sample)
     import cv2
     import numpy as np
 
