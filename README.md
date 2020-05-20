@@ -16,7 +16,7 @@ In the data science world, we face a lot of situation which require a lot of com
 
 No alt text provided for this image
 VGG16 is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes. It was one of the famous models submitted to ILSVRC-2014. It makes the improvement over AlexNet by replacing large kernel-sized filters (11 and 5 in the first and second convolutional layer, respectively) with multiple 3×3 kernel-sized filters one after another. VGG16 was trained for weeks and was using NVIDIA Titan Black GPUs.
-dataset:![dataset](/Screenshot/0 (1).png)
+dataset:![dataset](/Screenshot/vgg16.png)
 ## Face Detection and Face Recognition
 
 Face Detection: It is an (AI) based computer technology used to find and identify human faces in digital images or videos. It now plays an important role as the first step in many key applications including face tracking, face analysis, and facial recognition.
