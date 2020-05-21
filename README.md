@@ -225,3 +225,8 @@ List of Python libraries need to be installed:
                 validation_steps = nb_validation_samples // batch_size)
 
             modelnew.save("identity_vgg.h5")
+            
+  ## let's Look at the Result
+    
+   
+   :![dataset](/Screenshot/Screenshot (119).png)
