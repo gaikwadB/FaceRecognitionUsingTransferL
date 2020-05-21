@@ -228,5 +228,12 @@ List of Python libraries need to be installed:
             
   ## let's Look at the Result
     
+   * Here, I first collect the samples of dataset
+   
+   :![dataset](/Screenshot/collect.png)
+   
+   * Here, i have got the accuracy of model
+   
+   :![dataset](/Screenshot/accuracy.png)
    
    :![dataset](/Screenshot/result01.png)
