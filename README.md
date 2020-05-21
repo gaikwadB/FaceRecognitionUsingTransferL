@@ -236,4 +236,6 @@ List of Python libraries need to be installed:
    
    :![dataset](/Screenshot/accuracy.png)
    
+   * Here,i detect the face and add the class label above the face
+   
    :![dataset](/Screenshot/result01.png)
